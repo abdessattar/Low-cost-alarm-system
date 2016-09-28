@@ -1,0 +1,2 @@
+# Low-cost-alarm-system
+The aim of this project was to provide a solution Alarm low cost using an old smartphone. The latter will play GSM modem to contribute to the recycling process of the obsolete smartphone. Our task is to implement the embedded part using Arduino Uno card connected with a set of sensors on one hand and to set the connection with the old smartphone  using Bluetooth Low Energy on another hand.
